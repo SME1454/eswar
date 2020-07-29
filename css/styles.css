@@ -39,6 +39,10 @@ p {
 }
 /*************Class selectors************/
 
+.contact-desc, .intro-desc {
+  width:30%;
+  margin: auto;
+}
 .BTN_CONTACT {
   border-radius: 15px;
   box-shadow: 1px 1px 1px 0 #000000;
